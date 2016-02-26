@@ -1,0 +1,5 @@
+use movement key to move around
+
+spacebar - shoot
+
+* As game progesses, bullets get faster to help you! Don't hold space or your computer will be super slow
